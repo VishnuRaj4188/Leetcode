@@ -43,4 +43,16 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/VishnuRaj4188/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/VishnuRaj4188/Leetcode/tree/main/0268-missing-number/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/VishnuRaj4188/Leetcode/tree/main/1603-design-parking-system/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/VishnuRaj4188/Leetcode/tree/main/1603-design-parking-system/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/VishnuRaj4188/Leetcode/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
